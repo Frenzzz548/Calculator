@@ -1,3 +1,7 @@
+Nama : Bagus Cahya Saputra  
+NRP : 5025241067  
+Kelas : PBKK-C
+
 # Calculator App
 
 Calculator App adalah aplikasi kalkulator desktop sederhana yang dibuat menggunakan C# dan Windows Forms. Aplikasi ini menyediakan operasi aritmatika dasar dan beberapa fungsi matematika tambahan dalam satu tampilan.
