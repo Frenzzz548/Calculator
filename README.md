@@ -40,6 +40,13 @@ Tampilan aplikasi terdiri dari:
 
 Display dibuat read-only. Input dilakukan melalui tombol aplikasi atau keyboard.
 
+Berikut Tampilan dalam Penggunaannya
+<p align="center">
+	<img src="image.png" alt="Tampilan awal calculator scientific">
+	<br>
+	tampilan awal calculator scientific
+</p>
+
 ## Operasi yang Tersedia
 
 ### Operasi dasar
