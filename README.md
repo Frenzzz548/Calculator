@@ -1,5 +1,5 @@
-Nama : Bagus Cahya Saputra  
-NRP : 5025241067  
+Nama : Bagus Cahya Saputra<br>
+NRP : 5025241067<br>
 Kelas : PBKK-C
 
 # Calculator App
